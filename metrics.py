@@ -4,7 +4,7 @@ simulation/metrics.py
 KPI collection, aggregation, and reporting for the cold chain simulation.
 
 Tracks per-node, per-product, per-week statistics across simulation runs.
-Supports multi-replication averaging with confidence intervals.
+Supports multi-replication averaging with confidence intervals
 
 KPIs tracked:
   - Service level (fill rate) per node per week
